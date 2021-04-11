@@ -1,3 +1,4 @@
+name: Rebase branch
 on:
     # Run on every push on every branch
     push:
