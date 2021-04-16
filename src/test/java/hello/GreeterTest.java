@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+// Greeter test.
 public class GreeterTest {
   
   private Greeter greeter = new Greeter();
